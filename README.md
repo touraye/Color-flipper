@@ -6,4 +6,4 @@ Displaying different colors in the page using a button and as you click o the bu
 
 - Hex color with random amount of colors will generate different colors on the fly
 
-  [See Project](https://touraye.github.io/Color-flipper/)
+  [See Project](https://touraye.github.io/color-flipper/)
